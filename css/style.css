@@ -1,0 +1,17 @@
+
+
+.main-blog{
+    display: flex;
+}
+
+span{
+    color: #a82121;
+}
+
+.sizing{
+    position: 50%;
+}
+
+.my-pic{
+    position: 50%;
+}
